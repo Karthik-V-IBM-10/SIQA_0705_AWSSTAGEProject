@@ -13,17 +13,18 @@
     <value name="JMSTest">1.0</value>
     <value name="SIQAJDBCAdapterTests">1.0</value>
     <value name="DADA_GlobalVariable1">1.0</value>
+    <value name="SIQACloudStreamsTests">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">13</value>
+  <value name="build">14</value>
   <null name="description"/>
   <value name="created_date">07-05-2025 13:12:28 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-05-07T13:22:48.721431116Z</value>
+  <value name="lastUpdated">2025-05-07T13:23:11.429978037Z</value>
   <value name="wmProjectId">fld2ac52297504cf983b3f23</value>
   <value name="creator">siqadeveloper siqadeveloper</value>
 </Values>
